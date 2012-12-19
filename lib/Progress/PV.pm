@@ -2,7 +2,7 @@ package Progress::PV;
 
 use warnings;
 use strict;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use base qw( Class::Accessor::Fast Class::ErrorHandler );
 __PACKAGE__->mk_accessors(qw/
@@ -260,7 +260,7 @@ domain sockets the destination socket file to connect to
 
 =head1 AUTHOR
 
-	Girish Venkatachalam, C<< <girish at gayatri-hitech.com> >>
+	Girish Venkatachalam, <girish at gayatri-hitech.com>
 
 
 =head1 BUGS
@@ -283,19 +283,19 @@ domain sockets the destination socket file to connect to
 
 =item * AnnoCPAN: Annotated CPAN documentation
 
-	L<http://annocpan.org/dist/Text-COWsay>
+	L<http://annocpan.org/dist/Progress-PV>
 
 =item * CPAN Ratings
 
-	L<http://cpanratings.perl.org/d/Text-COWsay>
+	L<http://cpanratings.perl.org/d/Progress-PV>
 
 =item * RT: CPAN's request tracker
 
-	L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Text-COWsay>
+	L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Progress-PV>
 
 =item * Search CPAN
 
-	L<http://search.cpan.org/dist/Text-COWsay>
+	L<http://search.cpan.org/dist/Progress-PV>
 
 =back
 

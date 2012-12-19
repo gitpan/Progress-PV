@@ -1,4 +1,4 @@
-Net-Netcat
+Progress-PV
 
 INSTALLATION
 
@@ -19,16 +19,16 @@ After installing, you can find documentation for this module with the perldoc co
 You can also look for information at:
 
     Search CPAN
-        http://search.cpan.org/dist/Net-Netcat
+        http://search.cpan.org/dist/Progress-PV
 
     CPAN Request Tracker:
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Net-Netcat
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Progress-PV
 
     AnnoCPAN, annotated CPAN documentation:
-        http://annocpan.org/dist/Net-Netcat
+        http://annocpan.org/dist/Progress-PV
 
     CPAN Ratings:
-        http://cpanratings.perl.org/d/Net-Netcat
+        http://cpanratings.perl.org/d/Progress-PV
 
 COPYRIGHT AND LICENCE
 

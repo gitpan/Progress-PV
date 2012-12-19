@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Progress-PV
-version:            0.01
+version:            0.02
 abstract:           lib/Progress/PV.pm
 author:
     - Girish Venkatachalam <girish@gayatri-hitech.com>
